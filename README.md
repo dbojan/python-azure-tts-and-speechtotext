@@ -8,14 +8,15 @@ You can use azure for free for 12 months, after that you have to pay.
 you need phone number (not virtual), and credit card which will not be charged (shouldn't be for free tier, except may 1$ which will be paid back...)  
 https://portal.azure.com/#home
 
-select 'speech services' on the left
-click on +
-select free tier (f0), enter new name for resources
+select 'speech services' on the left  
+click on +  
+select location (for example north europ), free tier (f0), enter new name for resources  
 
+when you are done click on **key and location**. you will need them later.
 
 
 ## using the program
-download zip, enter your key and location in .py file. You can open .py using notepad++ or notepad.
+download zip, enter your **key and location** in .py file. You can open .py using notepad++ or notepad.
 
 install needed packages for python:  
 pip install azure-cognitiveservices-speech
