@@ -1,5 +1,6 @@
 # python-azure-tts-and-speechtotext
-Using azure from python for 'text to speech' and 'speech to text'
+Using azure from python for 'text to speech' and 'speech to text'  
+You can use azure for free for 12 months, after that you have to pay.
 
 ## setting azure
 you need phone number (not virtual), and credit card which will not be charged (shouldn't be for free tier, except may 1$ which will be paid back...)  
