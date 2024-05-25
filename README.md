@@ -1,5 +1,5 @@
 # python-azure-tts-and-speechtotext
-#2024-05-18-1
+#2024-05-18-1/#2024-05-18-1
 
 Using azure from python for 'text to speech' and 'speech to text'  
 You can use azure for free for 12 months, after that you have to pay.
