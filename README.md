@@ -19,3 +19,5 @@ pip install azure-cognitiveservices-speech
 
 start bat file  
 programs will use 1.wav (speech to text), or 1.txt (text to speech, utf-8 encoded preferred)
+
+dll files are for windows 8.1 should not be needed on newer windows, like windows 10,11 ...
