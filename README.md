@@ -3,6 +3,8 @@
 
 Using azure from python for 'text to speech' and 'speech to text'  
 You can use azure for free for 12 months, after that you have to pay.
+You **must move to pay as you go (basic supscription - $0) after first month.** Be careful not to go over free amount of units.  
+More info here: https://github.com/dbojan/python-azure-ocr/
 
 ## setting azure
 you need phone number (not virtual), and credit card which will not be charged (shouldn't be for free tier, except may 1$ which will be paid back...)  
